@@ -55,14 +55,6 @@ Portfólio pessoal com design minimalista, grid assimétrico e animação de has
 `React` `TypeScript` `Tailwind CSS`
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-
 ## 📫 Contato
 
 - 📧 **Email:** carlavick07@gmail.com
