@@ -19,16 +19,18 @@
 
 </div>
 
-<table>
-  <tr>
-    <td><b>Nome:</b> Carla Vicktória Palmiere</td>
-    <td><b>Formação:</b> Eng. de Software @ UniCEUB</td>
-  </tr>
-  <tr>
-    <td><b>Classe:</b> Desenvolvedora Full Stack</td>
-    <td><b>Conquista:</b> Embaixadora Google 2026</td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><b>Nome:</b> Carla Vicktória Palmiere</td>
+      <td align="center"><b>Formação:</b> Eng. de Software @ UniCEUB</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Classe:</b> Desenvolvedora Full Stack</td>
+      <td align="center"><b>Conquista:</b> Embaixadora Google 2026</td>
+    </tr>
+  </table>
+</div>
 
 ## <img src="https://img.shields.io/badge/ARSENAL%20TECNOL%C3%93GICO-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
@@ -60,7 +62,6 @@
 
 </div>
 
----
 
 ## <img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O%20%26%20CERTIFICA%C3%87%C3%95ES-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
 
@@ -95,7 +96,6 @@
   </table>
 </div>
 
----
 
 ## <img src="https://img.shields.io/badge/PROJETOS%20PRINCIPAIS-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
@@ -133,7 +133,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ## <img src="https://img.shields.io/badge/ESTAT%C3%8DSTICAS%20GITHUB-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
 
@@ -142,9 +142,13 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6"/>
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=8&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvpalmiere&theme=dark&background=12121C&stroke=E8B84B&ring=4C86C6&fire=E8B84B&currStreakNum=F2E4C9&sideNums=4C86C6&currStreakLabel=E8B84B&sideLabels=4C86C6&dates=F2E4C9" />
 
 </div>
----
+
 
 ## <img src="https://img.shields.io/badge/FOCO%20ATUAL-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
@@ -158,7 +162,6 @@
   <img src="https://img.shields.io/badge/DevOps-CI/CD_&_Automação-12121C?style=flat-square&color=E8B84B" />
 </div>
 
----
 
 ## <img src="https://img.shields.io/badge/DISPONIBILIDADE-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
