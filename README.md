@@ -135,18 +135,11 @@
 </table>
 
 
-## <img src="https://img.shields.io/badge/ESTAT%C3%8DSTICAS%20GITHUB-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
-
 <div align="center">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6"/>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=8&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvpalmiere&theme=dark&background=12121C&stroke=E8B84B&ring=4C86C6&fire=E8B84B&currStreakNum=F2E4C9&sideNums=4C86C6&currStreakLabel=E8B84B&sideLabels=4C86C6&dates=F2E4C9" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6" alt="Estatísticas GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=8&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B" alt="Linguagens Top" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=cvpalmiere&theme=dark&background=12121C&stroke=E8B84B&ring=4C86C6&fire=E8B84B&currStreakNum=F2E4C9&sideNums=4C86C6&currStreakLabel=E8B84B&sideLabels=4C86C6&dates=F2E4C9" alt="GitHub Streak" />
 </div>
 
 
