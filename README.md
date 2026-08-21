@@ -23,15 +23,20 @@
 
 ## <img src="https://img.shields.io/badge/SOBRE%20MIM-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-**Nome:** Carla Vicktória Palmiere  
-**Cargo:** Desenvolvedora Full Stack  
-**Formação:** Engenharia de Software - UniCEUB  
-**Destaque:** Embaixadora Google 2026  
-**Local:** Brasília, DF  
+<div align="center">
 
-**Missão:** Criar soluções criativas com tecnologia  
-**Objetivo:** Dominar novas linguagens e expandir portfólio  
+<img src="https://img.shields.io/badge/Nome-Carla%20Vicktória%20Palmiere-12121C?style=for-the-badge&logo=user&logoColor=F2E4C9" />
+<img src="https://img.shields.io/badge/Cargo-Desenvolvedora%20Full%20Stack-12121C?style=for-the-badge&logo=code&logoColor=4C86C6" />
+<img src="https://img.shields.io/badge/Formação-Eng.%20Software%20%7C%20UniCEUB-12121C?style=for-the-badge&logo=graduationcap&logoColor=E8B84B" />
+<img src="https://img.shields.io/badge/Destaque-Embaixadora%20Google%202026-12121C?style=for-the-badge&logo=google&logoColor=4C86C6" />
+<img src="https://img.shields.io/badge/Local-Bras%C3%ADlia%2C%20DF-12121C?style=for-the-badge&logo=locationdot&logoColor=E8B84B" />
 
+<br/><br/>
+
+> **Missão:** Criar soluções criativas com tecnologia  
+> **Objetivo:** Dominar novas linguagens e expandir portfólio
+
+</div>
 ---
 
 ## <img src="https://img.shields.io/badge/ARSENAL%20TECNOL%C3%93GICO-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
