@@ -36,23 +36,34 @@
 
 ## <img src="https://img.shields.io/badge/ARSENAL%20TECNOL%C3%93GICO-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-**Linguagens**  
-![Python](https://img.shields.io/badge/Python-12121C?style=flat-square&logo=python&logoColor=E8B84B) 
-![JavaScript](https://img.shields.io/badge/JavaScript-12121C?style=flat-square&logo=javascript&logoColor=E8B84B) 
-![C](https://img.shields.io/badge/C-12121C?style=flat-square&logo=c&logoColor=4C86C6) 
-![SQL](https://img.shields.io/badge/SQL-12121C?style=flat-square&logo=mysql&logoColor=4C86C6)
+<div align="center">
 
-**Frameworks & Libs**  
-![React](https://img.shields.io/badge/React-12121C?style=flat-square&logo=react&logoColor=4C86C6) 
-![REST API](https://img.shields.io/badge/REST%20API-12121C?style=flat-square&logo=fastapi&logoColor=E8B84B)
+### `LINGUAGENS`
+<br/>
+<img src="https://img.shields.io/badge/Python-12121C?style=for-the-badge&logo=python&logoColor=E8B84B" />
+<img src="https://img.shields.io/badge/JavaScript-12121C?style=for-the-badge&logo=javascript&logoColor=E8B84B" />
+<img src="https://img.shields.io/badge/C-12121C?style=for-the-badge&logo=c&logoColor=4C86C6" />
+<img src="https://img.shields.io/badge/SQL-12121C?style=for-the-badge&logo=mysql&logoColor=4C86C6" />
 
-**Ferramentas**  
-![Git](https://img.shields.io/badge/Git-12121C?style=flat-square&logo=git&logoColor=4C86C6) 
-![GitHub](https://img.shields.io/badge/GitHub-12121C?style=flat-square&logo=github&logoColor=F2E4C9) 
-![VS Code](https://img.shields.io/badge/VS%20Code-12121C?style=flat-square&logo=visualstudiocode&logoColor=4C86C6) 
-![PyCharm](https://img.shields.io/badge/PyCharm-12121C?style=flat-square&logo=pycharm&logoColor=E8B84B) 
-![Figma](https://img.shields.io/badge/Figma-12121C?style=flat-square&logo=figma&logoColor=E8B84B) 
-![Docker](https://img.shields.io/badge/Docker-12121C?style=flat-square&logo=docker&logoColor=4C86C6)
+<br/><br/>
+
+### `FRAMEWORKS & LIBS`
+<br/>
+<img src="https://img.shields.io/badge/React-12121C?style=for-the-badge&logo=react&logoColor=4C86C6" />
+<img src="https://img.shields.io/badge/REST%20API-12121C?style=for-the-badge&logo=fastapi&logoColor=E8B84B" />
+
+<br/><br/>
+
+### `FERRAMENTAS`
+<br/>
+<img src="https://img.shields.io/badge/Git-12121C?style=for-the-badge&logo=git&logoColor=4C86C6" />
+<img src="https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=F2E4C9" />
+<img src="https://img.shields.io/badge/VS%20Code-12121C?style=for-the-badge&logo=visualstudiocode&logoColor=4C86C6" />
+<img src="https://img.shields.io/badge/PyCharm-12121C?style=for-the-badge&logo=pycharm&logoColor=E8B84B" />
+<img src="https://img.shields.io/badge/Figma-12121C?style=for-the-badge&logo=figma&logoColor=E8B84B" />
+<img src="https://img.shields.io/badge/Docker-12121C?style=for-the-badge&logo=docker&logoColor=4C86C6" />
+
+</div>
 
 ---
 
