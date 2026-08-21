@@ -25,18 +25,3 @@
 
 </div>
 
-## SOBRE MIM
-
-<div align="center">
-
-> INICIALIZANDO PERFIL...
-
-> NOME........: Carla Vicktória Palmiere
-> CLASSE......: Desenvolvedora Full Stack
-> GUILD.......: UniCEUB | Engenharia de Software
-> RANK........: Embaixadora Google (2026)
-> ESPECIALIDADE: Criar soluções criativas com tecnologia
-> STATUS......: Sempre em busca de novos desafios
-> MISSÃO ATUAL: Expandir portfólio e dominar novas linguagens
-> LOCALIZACAO.: Brasília, DF
-</div>
