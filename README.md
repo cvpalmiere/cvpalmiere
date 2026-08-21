@@ -19,13 +19,16 @@
 
 </div>
 
----
-
-Nome: Carla Vicktoria Palmiere
-Classe: Desenvolvedora Full Stack
-Formacao: Engenharia de Software @ UniCEUB
-Conquista: Embaixadora Google 2026
-Local: Brasilia, DF
+<table>
+  <tr>
+    <td><b>Nome:</b> Carla Vicktória Palmiere</td>
+    <td><b>Formação:</b> Eng. de Software @ UniCEUB</td>
+  </tr>
+  <tr>
+    <td><b>Classe:</b> Desenvolvedora Full Stack</td>
+    <td><b>Conquista:</b> Embaixadora Google 2026</td>
+  </tr>
+</table>
 
 ## <img src="https://img.shields.io/badge/ARSENAL%20TECNOL%C3%93GICO-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
@@ -61,80 +64,75 @@ Local: Brasilia, DF
 
 ## <img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O%20%26%20CERTIFICA%C3%87%C3%95ES-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
 
-- `ATIVO` **Engenharia de Software** - UniCEUB `60%`
-- `CONCLUÍDO` **CS50 Harvard** - Fundação Estudar `100%`
-- `CONCLUÍDO` **Front End + Design** - HTML/CSS/JS/Figma `100%`
-- `CONCLUÍDO` **IA e Habilidades Humanas** - USP `100%`
-- `CONCLUÍDO` **Fluência em IA** - Anthropic `100%`
-- `EM ANDAMENTO` **Banco de Dados Oracle** - Oracle `40%`
-
----
+| Status | Curso / Formação | Instituição | Conclusão |
+| :---: | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/ATIVO-12121C?style=flat-square&color=4C86C6" /> | **Engenharia de Software** | UniCEUB | `60%` |
+| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **CS50 Harvard** | Fundação Estudar | `100%` |
+| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **Front End + Design** (HTML/CSS/JS/Figma) | - | `100%` |
+| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **IA e Habilidades Humanas** | USP | `100%` |
+| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **Fluência em IA** | Anthropic | `100%` |
+| <img src="https://img.shields.io/badge/EM_ANDAMENTO-12121C?style=flat-square&color=16407A" /> | **Banco de Dados Oracle** | Oracle | `40%` |
 
 ## <img src="https://img.shields.io/badge/N%C3%8DVEL%20DE%20HABILIDADES-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
 <div align="center">
-
-### `Algoritmos & Lógica`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-80%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `Python`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-60%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `HTML / CSS`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-65%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `Git & Versionamento`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-60%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `Figma & UI Design`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-55%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `JavaScript`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-40%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `C & Sistemas`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-35%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `SQL & Bancos de Dados`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-40%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
-<br/><br/>
-
-### `Estrutura de Dados`
-<img src="https://img.shields.io/badge/N%C3%8DVEL-30%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
-
+  <table align="center">
+    <tr>
+      <td align="center"><b>Algoritmos & Lógica</b><br><img src="https://img.shields.io/badge/80%25-12121C?style=flat-square&color=4C86C6" /></td>
+      <td align="center"><b>Python</b><br><img src="https://img.shields.io/badge/60%25-12121C?style=flat-square&color=4C86C6" /></td>
+      <td align="center"><b>HTML / CSS</b><br><img src="https://img.shields.io/badge/65%25-12121C?style=flat-square&color=4C86C6" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Git & Versionamento</b><br><img src="https://img.shields.io/badge/60%25-12121C?style=flat-square&color=4C86C6" /></td>
+      <td align="center"><b>Figma & UI Design</b><br><img src="https://img.shields.io/badge/55%25-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>JavaScript</b><br><img src="https://img.shields.io/badge/40%25-12121C?style=flat-square&color=E8B84B" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>C & Sistemas</b><br><img src="https://img.shields.io/badge/35%25-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>SQL & Bancos de Dados</b><br><img src="https://img.shields.io/badge/40%25-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>Estrutura de Dados</b><br><img src="https://img.shields.io/badge/30%25-12121C?style=flat-square&color=E8B84B" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## <img src="https://img.shields.io/badge/PROJETOS%20PRINCIPAIS-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-### **List To Playlist**
-`Python` `Spotify API` `OAuth 2.0` | `DEPLOYED`  
-Converte listas de músicas entre plataformas usando a API do Spotify.  
-[Ver Repositório](https://github.com/cvpalmiere)
-
-### **Mural Fotográfico**
-`React` `Node.js` `Upload API` | `PRODUCTION`  
-Aplicação para upload e organização de fotos com interface moderna.  
-[Ver Repositório](https://github.com/cvpalmiere)
-
-### **Palmiere Studio**
-`React 18` `LocalStorage` `CSS Grid` | `ACTIVE`  
-Estúdio criativo para gerenciamento de projetos e portfólio.  
-[Ver Repositório](https://github.com/cvpalmiere)
-
-### **Landing Page**
-`HTML5` `CSS3` `JavaScript` | `COMPLETED`  
-Landing page responsiva com foco em conversão e UI limpa.  
-[Ver Repositório](https://github.com/cvpalmiere)
-
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>List To Playlist</h3>
+      <p><img src="https://img.shields.io/badge/DEPLOYED-12121C?style=flat-square&color=E8B84B" /></p>
+      <p><code>Python</code> <code>Spotify API</code> <code>OAuth 2.0</code></p>
+      <p>Converte listas de músicas entre plataformas usando a API do Spotify.</p>
+      <a href="https://github.com/cvpalmiere">Ver Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mural Fotográfico</h3>
+      <p><img src="https://img.shields.io/badge/PRODUCTION-12121C?style=flat-square&color=4C86C6" /></p>
+      <p><code>React</code> <code>Node.js</code> <code>Upload API</code></p>
+      <p>Aplicação para upload e organização de fotos com interface moderna.</p>
+      <a href="https://github.com/cvpalmiere">Ver Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Palmiere Studio</h3>
+      <p><img src="https://img.shields.io/badge/ACTIVE-12121C?style=flat-square&color=E8B84B" /></p>
+      <p><code>React 18</code> <code>LocalStorage</code> <code>CSS Grid</code></p>
+      <p>Estúdio criativo para gerenciamento de projetos e portfólio.</p>
+      <a href="https://github.com/cvpalmiere">Ver Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Landing Page</h3>
+      <p><img src="https://img.shields.io/badge/COMPLETED-12121C?style=flat-square&color=4C86C6" /></p>
+      <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></p>
+      <p>Landing page responsiva com foco em conversão e UI limpa.</p>
+      <a href="https://github.com/cvpalmiere">Ver Repositório</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## <img src="https://img.shields.io/badge/ESTAT%C3%8DSTICAS%20GITHUB-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
@@ -144,33 +142,31 @@ Landing page responsiva com foco em conversão e UI limpa.
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6"/>
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=8&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvpalmiere&theme=dark&background=12121C&stroke=E8B84B&ring=4C86C6&fire=E8B84B&currStreakNum=F2E4C9&sideNums=4C86C6&currStreakLabel=E8B84B&sideLabels=4C86C6&dates=F2E4C9" />
 
 </div>
-
 ---
 
 ## <img src="https://img.shields.io/badge/FOCO%20ATUAL-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-- **Python Avançado**: Otimização e melhores práticas
-- **Algoritmos**: Estruturas de dados eficientes  
-- **APIs RESTful**: Desenvolvimento de backends
-- **Microsserviços**: Arquitetura distribuída
-- **IA & ML**: Integrações inteligentes
-- **DevOps**: CI/CD e automação
+<div align="center">
+  <img src="https://img.shields.io/badge/Python_Avançado-Otimização_&_Práticas-12121C?style=flat-square&color=4C86C6" />
+  <img src="https://img.shields.io/badge/Algoritmos-Estruturas_de_Dados-12121C?style=flat-square&color=E8B84B" />
+  <img src="https://img.shields.io/badge/APIs_RESTful-Backend-12121C?style=flat-square&color=4C86C6" />
+  <br>
+  <img src="https://img.shields.io/badge/Microsserviços-Arquitetura_Distribuída-12121C?style=flat-square&color=E8B84B" />
+  <img src="https://img.shields.io/badge/IA_&_ML-Integrações-12121C?style=flat-square&color=4C86C6" />
+  <img src="https://img.shields.io/badge/DevOps-CI/CD_&_Automação-12121C?style=flat-square&color=E8B84B" />
+</div>
 
 ---
 
 ## <img src="https://img.shields.io/badge/DISPONIBILIDADE-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-**Status:** Aberto para Projetos  
-**Modalidade:** Remoto / Híbrido  
-**Timezone:** GMT-3
-
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Aberto_para_Projetos-12121C?style=for-the-badge&color=E8B84B" />
+  <img src="https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido-12121C?style=for-the-badge&color=4C86C6" />
+  <img src="https://img.shields.io/badge/Timezone-GMT--3-12121C?style=for-the-badge&color=16407A" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=120&section=footer&fontSize=42&fontColor=F2E4C9&animation=fadeIn" width="100%"/>
