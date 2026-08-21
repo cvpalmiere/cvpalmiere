@@ -69,15 +69,44 @@
 
 ## <img src="https://img.shields.io/badge/N%C3%8DVEL%20DE%20HABILIDADES-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-**Algoritmos & Lógica** `80%`  
-**Python** `60%`  
-**HTML/CSS** `65%`  
-**Git & Versionamento** `60%`  
-**Figma & UI Design** `55%`  
-**JavaScript** `40%`  
-**C & Sistemas** `35%`  
-**SQL & Bancos** `40%`  
-**Estrutura de Dados** `30%`
+<div align="center">
+
+### `Algoritmos & Lógica`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-80%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `Python`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-60%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `HTML / CSS`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-65%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `Git & Versionamento`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-60%25-4C86C6?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `Figma & UI Design`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-55%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `JavaScript`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-40%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `C & Sistemas`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-35%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `SQL & Bancos de Dados`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-40%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
+<br/><br/>
+
+### `Estrutura de Dados`
+<img src="https://img.shields.io/badge/N%C3%8DVEL-30%25-E8B84B?style=for-the-badge&labelColor=12121C&color=16407A" />
+
+</div>
 
 ---
 
@@ -108,10 +137,15 @@ Landing page responsiva com foco em conversão e UI limpa.
 ## <img src="https://img.shields.io/badge/ESTAT%C3%8DSTICAS%20GITHUB-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=7&theme=tokyonight&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B" />
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6"/>
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=8&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B"/>
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvpalmiere&theme=tokyonight&background=12121C&stroke=E8B84B&ring=4C86C6&fire=E8B84B&currStreakNum=F2E4C9&sideNums=4C86C6&currStreakLabel=E8B84B&sideLabels=4C86C6&dates=F2E4C9" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvpalmiere&theme=dark&background=12121C&stroke=E8B84B&ring=4C86C6&fire=E8B84B&currStreakNum=F2E4C9&sideNums=4C86C6&currStreakLabel=E8B84B&sideLabels=4C86C6&dates=F2E4C9" />
+
 </div>
 
 ---
