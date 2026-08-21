@@ -63,7 +63,7 @@
 </div>
 
 
-## <img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O%20%26%20CERTIFICA%C3%87%C3%95ES-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
+## <img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O%20%26%20CERTIFICA%C3%87%C3%95ES-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
 <div align="center">
   <table align="center">
