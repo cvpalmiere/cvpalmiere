@@ -25,54 +25,18 @@
 
 </div>
 
----
-
----
-
-## [ STACK & FERRAMENTAS ]
+## SOBRE MIM
 
 <div align="center">
 
-<img src="[https://img.shields.io/badge/Python-12121C?style=for-the-badge&logo=python&logoColor=E8B84B](https://img.shields.io/badge/Python-12121C?style=for-the-badge&logo=python&logoColor=E8B84B)" />
-<img src="[https://img.shields.io/badge/JavaScript-12121C?style=for-the-badge&logo=javascript&logoColor=E8B84B](https://img.shields.io/badge/JavaScript-12121C?style=for-the-badge&logo=javascript&logoColor=E8B84B)" />
-<img src="[https://img.shields.io/badge/HTML5-12121C?style=for-the-badge&logo=html5&logoColor=4C86C6](https://img.shields.io/badge/HTML5-12121C?style=for-the-badge&logo=html5&logoColor=4C86C6)" />
-<img src="[https://img.shields.io/badge/CSS3-12121C?style=for-the-badge&logo=css3&logoColor=4C86C6](https://img.shields.io/badge/CSS3-12121C?style=for-the-badge&logo=css3&logoColor=4C86C6)" />
-<img src="[https://img.shields.io/badge/React-12121C?style=for-the-badge&logo=react&logoColor=4C86C6](https://img.shields.io/badge/React-12121C?style=for-the-badge&logo=react&logoColor=4C86C6)" />
-<img src="[https://img.shields.io/badge/C-12121C?style=for-the-badge&logo=c&logoColor=F2E4C9](https://img.shields.io/badge/C-12121C?style=for-the-badge&logo=c&logoColor=F2E4C9)" />
-<br/>
-<img src="[https://img.shields.io/badge/SQL-12121C?style=for-the-badge&logo=oracle&logoColor=E8B84B](https://img.shields.io/badge/SQL-12121C?style=for-the-badge&logo=oracle&logoColor=E8B84B)" />
-<img src="[https://img.shields.io/badge/Git-12121C?style=for-the-badge&logo=git&logoColor=4C86C6](https://img.shields.io/badge/Git-12121C?style=for-the-badge&logo=git&logoColor=4C86C6)" />
-<img src="[https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=F2E4C9](https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=F2E4C9)" />
-<img src="[https://img.shields.io/badge/VS_Code-12121C?style=for-the-badge&logo=visualstudiocode&logoColor=4C86C6](https://img.shields.io/badge/VS_Code-12121C?style=for-the-badge&logo=visualstudiocode&logoColor=4C86C6)" />
-<img src="[https://img.shields.io/badge/PyCharm-12121C?style=for-the-badge&logo=pycharm&logoColor=E8B84B](https://img.shields.io/badge/PyCharm-12121C?style=for-the-badge&logo=pycharm&logoColor=E8B84B)" />
-<img src="[https://img.shields.io/badge/Figma-12121C?style=for-the-badge&logo=figma&logoColor=E8B84B](https://img.shields.io/badge/Figma-12121C?style=for-the-badge&logo=figma&logoColor=E8B84B)" />
-<img src="[https://img.shields.io/badge/Claude-12121C?style=for-the-badge&logo=anthropic&logoColor=F2E4C9](https://img.shields.io/badge/Claude-12121C?style=for-the-badge&logo=anthropic&logoColor=F2E4C9)" />
+> INICIALIZANDO PERFIL...
 
+> NOME........: Carla Vicktória Palmiere
+> CLASSE......: Desenvolvedora Full Stack
+> GUILD.......: UniCEUB | Engenharia de Software
+> RANK........: Embaixadora Google (2026)
+> ESPECIALIDADE: Criar soluções criativas com tecnologia
+> STATUS......: Sempre em busca de novos desafios
+> MISSÃO ATUAL: Expandir portfólio e dominar novas linguagens
+> LOCALIZACAO.: Brasília, DF
 </div>
-
----
-
-## [ FORMAÇÃO ACADÊMICA ]
-
-* **Graduação:** Engenharia de Software — UniCEUB *(2º semestre)*
-* **Cursos & Certificações:**
-  * CS50 Harvard em Português — Fundação Estudar
-  * Formação Front End + Design — HTML, CSS, JS, Figma
-  * IA e Habilidades Humanas para Gestão — USP
-  * Fluência em IA: Estrutura e Fundamentos — Anthropic
-  * Fundação de Banco de Dados Oracle *(em andamento)*
-
----
-
-## [ NÍVEL DAS HABILIDADES ]
-
-```text
-Algoritmos        ████████░░ Avançado
-Python             ██████░░░░ Intermediário
-HTML/CSS           ██████░░░░ Intermediário
-Git & GitHub       ██████░░░░ Intermediário
-Figma              ██████░░░░ Intermediário
-JavaScript         ████░░░░░░ Básico
-C                  ████░░░░░░ Básico
-SQL                ████░░░░░░ Básico
-Estrut. de Dados   ████░░░░░░ Básico
