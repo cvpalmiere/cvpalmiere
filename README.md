@@ -205,7 +205,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=120&section=footer&fontSize=42&fontColor=F2E4C9&animation=fadeIn" width="100%"/>
   <br/>
-  <code>"Código é poesia em movimento."</code>
-  <br/>
-  © 2024 Carla Palmiere
 </div>
