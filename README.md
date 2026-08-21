@@ -27,7 +27,7 @@
 
 ---
 
-## [ SOBRE MIM ][cite: 1]
+## [ SOBRE MIM ]
 
 ```python
 class Carla:
@@ -46,4 +46,13 @@ class Carla:
 
 carla = Carla()
 print("Trabalho em equipe, proatividade, dinamismo e senso de urgência.")
-[ STACK & FERRAMENTAS ][ FORMAÇÃO ACADÊMICA & HABILIDADES ]ACADÊMICAEngenharia de Software | UniCEUB (2º semestre)  COMPLEMENTARCS50 Harvard em Português | Fundação Estudar  Formação Front End + Design | HTML, CSS, JS, Figma  IA e Habilidades Humanas para Gestão | USP[cite: 1]Fluência em IA: Estrutura e Fundamentos | Anthropic[cite: 1]Fundação de Banco de Dados Oracle (em andamento)[cite: 1]NÍVEL DAS HABILIDADESAlgoritmos        ████████░░ AvançadoPython             ██████░░░░ IntermediárioHTML/CSS           ██████░░░░ IntermediárioGit & GitHub       ██████░░░░ IntermediárioFigma              ██████░░░░ IntermediárioJavaScript         ████░░░░░░ BásicoC                  ████░░░░░░ BásicoSQL                ████░░░░░░ BásicoEstrut. de Dados   ████░░░░░░ Básico[ ESTATÍSTICAS DO GITHUB ][ EM FOCO AGORA ]Me aprofundando nas tecnologias que já uso: fortalecendo Python, React e SQL, além de consolidar fundamentos de algoritmos e estruturas de dados.CONTATOcarlavick07@gmail.com | (61) 99901-1622 | Brasília, DF[cite: 1]
+[ STACK & FERRAMENTAS ][ FORMAÇÃO ACADÊMICA & HABILIDADES ]ACADÊMICAEngenharia de Software | UniCEUB (2º semestre)  COMPLEMENTARCS50 Harvard em Português | Fundação Estudar  Formação Front End + Design | HTML, CSS, JS, Figma  IA e Habilidades Humanas para Gestão | USP  Fluência em IA: Estrutura e Fundamentos | Anthropic  Fundação de Banco de Dados Oracle (em andamento)  NÍVEL DAS HABILIDADESPlaintextAlgoritmos        ████████░░ Avançado
+Python             ██████░░░░ Intermediário
+HTML/CSS           ██████░░░░ Intermediário
+Git & GitHub       ██████░░░░ Intermediário
+Figma              ██████░░░░ Intermediário
+JavaScript         ████░░░░░░ Básico
+C                  ████░░░░░░ Básico
+SQL                ████░░░░░░ Básico
+Estrut. de Dados   ████░░░░░░ Básico
+[ ESTATÍSTICAS DO GITHUB ][ EM FOCO AGORA ]Me aprofundando nas tecnologias que já uso: fortalecendo Python, React e SQL, além de consolidar fundamentos de algoritmos e estruturas de dados.CONTATOcarlavick07@gmail.com | (61) 99901-1622 | Brasília, DF  
