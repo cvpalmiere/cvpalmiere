@@ -67,31 +67,31 @@
 
 | Status | Curso / Formação | Instituição | Conclusão |
 | :---: | :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/ATIVO-12121C?style=flat-square&color=4C86C6" /> | **Engenharia de Software** | UniCEUB | `60%` |
-| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **CS50 Harvard** | Fundação Estudar | `100%` |
-| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **Front End + Design** (HTML/CSS/JS/Figma) | - | `100%` |
-| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **IA e Habilidades Humanas** | USP | `100%` |
-| <img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /> | **Fluência em IA** | Anthropic | `100%` |
-| <img src="https://img.shields.io/badge/EM_ANDAMENTO-12121C?style=flat-square&color=16407A" /> | **Banco de Dados Oracle** | Oracle | `40%` |
+| **ATIVO** | **Engenharia de Software** | UniCEUB | `60%` |
+| **CONCLUÍDO** | **CS50 Harvard** | Fundação Estudar | `100%` |
+| **CONCLUÍDO** | **Front End + Design** (HTML/CSS/JS/Figma) | - | `100%` |
+| **CONCLUÍDO** | **IA e Habilidades Humanas** | USP | `100%` |
+| **CONCLUÍDO** | **Fluência em IA** | Anthropic | `100%` |
+| **EM ANDAMENTO** | **Banco de Dados Oracle** | Oracle | `40%` |
 
 ## <img src="https://img.shields.io/badge/N%C3%8DVEL%20DE%20HABILIDADES-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>Algoritmos & Lógica</b><br><img src="https://img.shields.io/badge/80%25-12121C?style=flat-square&color=4C86C6" /></td>
-      <td align="center"><b>Python</b><br><img src="https://img.shields.io/badge/60%25-12121C?style=flat-square&color=4C86C6" /></td>
-      <td align="center"><b>HTML / CSS</b><br><img src="https://img.shields.io/badge/65%25-12121C?style=flat-square&color=4C86C6" /></td>
+      <td align="center"><b>Algoritmos & Lógica</b><br>80%</td>
+      <td align="center"><b>Python</b><br>60%</td>
+      <td align="center"><b>HTML / CSS</b><br>65%</td>
     </tr>
     <tr>
-      <td align="center"><b>Git & Versionamento</b><br><img src="https://img.shields.io/badge/60%25-12121C?style=flat-square&color=4C86C6" /></td>
-      <td align="center"><b>Figma & UI Design</b><br><img src="https://img.shields.io/badge/55%25-12121C?style=flat-square&color=E8B84B" /></td>
-      <td align="center"><b>JavaScript</b><br><img src="https://img.shields.io/badge/40%25-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>Git & Versionamento</b><br>60%</td>
+      <td align="center"><b>Figma & UI Design</b><br>55%</td>
+      <td align="center"><b>JavaScript</b><br>40%</td>
     </tr>
     <tr>
-      <td align="center"><b>C & Sistemas</b><br><img src="https://img.shields.io/badge/35%25-12121C?style=flat-square&color=E8B84B" /></td>
-      <td align="center"><b>SQL & Bancos de Dados</b><br><img src="https://img.shields.io/badge/40%25-12121C?style=flat-square&color=E8B84B" /></td>
-      <td align="center"><b>Estrutura de Dados</b><br><img src="https://img.shields.io/badge/30%25-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>C & Sistemas</b><br>35%</td>
+      <td align="center"><b>SQL & Bancos de Dados</b><br>40%</td>
+      <td align="center"><b>Estrutura de Dados</b><br>30%</td>
     </tr>
   </table>
 </div>
