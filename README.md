@@ -1,4 +1,4 @@
-Markdown<div align="center">
+<div align="center">
 
 <!-- BANNER COM A PALETA DO LUCARIO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=180&section=header&text=CARLA%20PALMIERE&fontSize=42&fontColor=F2E4C9&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20Full%20Stack%20%7C%20Bras%C3%ADlia%2C%20DF&descAlignY=58&descSize=16" width="100%"/>
