@@ -65,14 +65,52 @@
 
 ## <img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O%20%26%20CERTIFICA%C3%87%C3%95ES-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
 
-| Status | Curso / Formação | Instituição | Conclusão |
-| :---: | :--- | :--- | :---: |
-| **ATIVO** | **Engenharia de Software** | UniCEUB | `60%` |
-| **CONCLUÍDO** | **CS50 Harvard** | Fundação Estudar | `100%` |
-| **CONCLUÍDO** | **Front End + Design** (HTML/CSS/JS/Figma) | - | `100%` |
-| **CONCLUÍDO** | **IA e Habilidades Humanas** | USP | `100%` |
-| **CONCLUÍDO** | **Fluência em IA** | Anthropic | `100%` |
-| **EM ANDAMENTO** | **Banco de Dados Oracle** | Oracle | `40%` |
+<div align="center">
+  <table align="center">
+    <tr>
+      <th align="center">Status</th>
+      <th>Curso / Formação</th>
+      <th>Instituição</th>
+      <th align="center">Conclusão</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/ATIVO-12121C?style=flat-square&color=4C86C6" /></td>
+      <td><b>Engenharia de Software</b></td>
+      <td>UniCEUB</td>
+      <td align="center"><code>60%</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td><b>CS50 Harvard</b></td>
+      <td>Fundação Estudar</td>
+      <td align="center"><code>100%</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td><b>Front End + Design</b> (HTML/CSS/JS/Figma)</td>
+      <td>-</td>
+      <td align="center"><code>100%</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td><b>IA e Habilidades Humanas</b></td>
+      <td>USP</td>
+      <td align="center"><code>100%</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td><b>Fluência em IA</b></td>
+      <td>Anthropic</td>
+      <td align="center"><code>100%</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/EM_ANDAMENTO-12121C?style=flat-square&color=16407A" /></td>
+      <td><b>Banco de Dados Oracle</b></td>
+      <td>Oracle</td>
+      <td align="center"><code>40%</code></td>
+    </tr>
+  </table>
+</div>
 
 ## <img src="https://img.shields.io/badge/N%C3%8DVEL%20DE%20HABILIDADES-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
