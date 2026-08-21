@@ -74,37 +74,37 @@
       <th align="center">Conclusão</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/ATIVO-12121C?style=flat-square&color=4C86C6" /></td>
+      <td align="center"><b>ATIVO</b></td>
       <td><b>Engenharia de Software</b></td>
       <td>UniCEUB</td>
       <td align="center"><code>60%</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>CONCLUÍDO</b></td>
       <td><b>CS50 Harvard</b></td>
       <td>Fundação Estudar</td>
       <td align="center"><code>100%</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>CONCLUÍDO</b></td>
       <td><b>Front End + Design</b> (HTML/CSS/JS/Figma)</td>
       <td>-</td>
       <td align="center"><code>100%</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>CONCLUÍDO</b></td>
       <td><b>IA e Habilidades Humanas</b></td>
       <td>USP</td>
       <td align="center"><code>100%</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CONCLUÍDO-12121C?style=flat-square&color=E8B84B" /></td>
+      <td align="center"><b>CONCLUÍDO</b></td>
       <td><b>Fluência em IA</b></td>
       <td>Anthropic</td>
       <td align="center"><code>100%</code></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/EM_ANDAMENTO-12121C?style=flat-square&color=16407A" /></td>
+      <td align="center"><b>EM ANDAMENTO</b></td>
       <td><b>Banco de Dados Oracle</b></td>
       <td>Oracle</td>
       <td align="center"><code>40%</code></td>
