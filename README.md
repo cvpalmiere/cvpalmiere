@@ -40,28 +40,27 @@
 
 ### `LINGUAGENS`
 <br/>
-<img src="https://img.shields.io/badge/Python-12121C?style=for-the-badge&logo=python&logoColor=E8B84B" />
-<img src="https://img.shields.io/badge/JavaScript-12121C?style=for-the-badge&logo=javascript&logoColor=E8B84B" />
-<img src="https://img.shields.io/badge/C-12121C?style=for-the-badge&logo=c&logoColor=4C86C6" />
-<img src="https://img.shields.io/badge/SQL-12121C?style=for-the-badge&logo=mysql&logoColor=4C86C6" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="80" height="80" />
 
 <br/><br/>
 
 ### `FRAMEWORKS & LIBS`
 <br/>
-<img src="https://img.shields.io/badge/React-12121C?style=for-the-badge&logo=react&logoColor=4C86C6" />
-<img src="https://img.shields.io/badge/REST%20API-12121C?style=for-the-badge&logo=fastapi&logoColor=E8B84B" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="80" height="80" />
 
 <br/><br/>
 
 ### `FERRAMENTAS`
 <br/>
-<img src="https://img.shields.io/badge/Git-12121C?style=for-the-badge&logo=git&logoColor=4C86C6" />
-<img src="https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=F2E4C9" />
-<img src="https://img.shields.io/badge/VS%20Code-12121C?style=for-the-badge&logo=visualstudiocode&logoColor=4C86C6" />
-<img src="https://img.shields.io/badge/PyCharm-12121C?style=for-the-badge&logo=pycharm&logoColor=E8B84B" />
-<img src="https://img.shields.io/badge/Figma-12121C?style=for-the-badge&logo=figma&logoColor=E8B84B" />
-<img src="https://img.shields.io/badge/Docker-12121C?style=for-the-badge&logo=docker&logoColor=4C86C6" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/pycharm-icon.svg" alt="PyCharm" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="80" height="80" />
 
 </div>
 
