@@ -56,11 +56,11 @@
 
 ### `FERRAMENTAS`
 <br/>
-<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/pycharm-icon.svg" alt="PyCharm" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" height="80"/>
 
 </div>
 
