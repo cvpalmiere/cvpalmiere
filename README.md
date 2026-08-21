@@ -1,32 +1,5 @@
 <div align="center">
 
-<!-- BANNER COM A PALETA DO LUCARIO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=180&section=header&text=CARLA%20PALMIERE&fontSize=42&fontColor=F2E4C9&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20Full%20Stack%20%7C%20Bras%C3%ADlia%2C%20DF&descAlignY=58&descSize=16" width="100%"/>
-
-<!-- TYPING SVG CUSTOMIZADO NA PALETA -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=E8B84B&center=true&vCenter=true&width=600&lines=CARLA+VICKT%C3%93RIA;DESENVOLVEDORA+FULL+STACK;EMBAIXADORA+GOOGLE+2026;SEMPRE+APRENDENDO+%3C%2F%3E" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- BADGES DE LOCALIZAÇÃO E CARGO -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LOCALIZACAO-BRASIL--DF-16407A?style=for-the-badge&labelColor=12121C&color=4C86C6" />
-  <img src="https://img.shields.io/badge/CARGO-FULL%20STACK%20DEV-16407A?style=for-the-badge&labelColor=12121C&color=E8B84B" />
-  <img src="https://img.shields.io/badge/GOOGLE-EMBAIXADORA%202026-16407A?style=for-the-badge&labelColor=12121C&color=4C86C6" />
-</p>
-
-<!-- CONTATOS -->
-<p align="center">
-  <a href="mailto:carlavick07@gmail.com"><img src="https://img.shields.io/badge/Email-12121C?style=for-the-badge&logo=gmail&logoColor=E8B84B" /></a>
-  <a href="https://linkedin.com/in/cvpalmiere"><img src="https://img.shields.io/badge/LinkedIn-12121C?style=for-the-badge&logo=linkedin&logoColor=4C86C6" /></a>
-  <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=F2E4C9" /></a>
-  <a href="https://cvpalmiere.github.io"><img src="https://img.shields.io/badge/Portfolio-12121C?style=for-the-badge&logo=firefox&logoColor=E8B84B" /></a>
-</p>
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=180&section=header&text=CARLA%20PALMIERE&fontSize=42&fontColor=F2E4C9&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20Full%20Stack%20%7C%20Bras%C3%ADlia%2C%20DF&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=E8B84B&center=true&vCenter=true&width=600&lines=CARLA+VICKT%C3%93RIA;DESENVOLVEDORA+FULL+STACK;EMBAIXADORA+GOOGLE+2026;SEMPRE+APRENDENDO+%3C%2F%3E" alt="Typing SVG" />
@@ -55,6 +28,7 @@
 **Formação:** Engenharia de Software - UniCEUB  
 **Destaque:** Embaixadora Google 2026  
 **Local:** Brasília, DF  
+
 **Missão:** Criar soluções criativas com tecnologia  
 **Objetivo:** Dominar novas linguagens e expandir portfólio  
 
@@ -62,63 +36,72 @@
 
 ## <img src="https://img.shields.io/badge/ARSENAL%20TECNOL%C3%93GICO-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-**Linguagens:**  
-`Python` `JavaScript` `C` `SQL`
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-12121C?style=flat-square&logo=python&logoColor=E8B84B) 
+![JavaScript](https://img.shields.io/badge/JavaScript-12121C?style=flat-square&logo=javascript&logoColor=E8B84B) 
+![C](https://img.shields.io/badge/C-12121C?style=flat-square&logo=c&logoColor=4C86C6) 
+![SQL](https://img.shields.io/badge/SQL-12121C?style=flat-square&logo=mysql&logoColor=4C86C6)
 
-**Frameworks & Libs:**  
-`React` `REST API`
+**Frameworks & Libs**  
+![React](https://img.shields.io/badge/React-12121C?style=flat-square&logo=react&logoColor=4C86C6) 
+![REST API](https://img.shields.io/badge/REST%20API-12121C?style=flat-square&logo=fastapi&logoColor=E8B84B)
 
-**Ferramentas:**  
-`Git` `GitHub` `VS Code` `PyCharm` `Figma` `Docker`
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-12121C?style=flat-square&logo=git&logoColor=4C86C6) 
+![GitHub](https://img.shields.io/badge/GitHub-12121C?style=flat-square&logo=github&logoColor=F2E4C9) 
+![VS Code](https://img.shields.io/badge/VS%20Code-12121C?style=flat-square&logo=visualstudiocode&logoColor=4C86C6) 
+![PyCharm](https://img.shields.io/badge/PyCharm-12121C?style=flat-square&logo=pycharm&logoColor=E8B84B) 
+![Figma](https://img.shields.io/badge/Figma-12121C?style=flat-square&logo=figma&logoColor=E8B84B) 
+![Docker](https://img.shields.io/badge/Docker-12121C?style=flat-square&logo=docker&logoColor=4C86C6)
 
 ---
 
 ## <img src="https://img.shields.io/badge/FORMA%C3%87%C3%83O%20%26%20CERTIFICA%C3%87%C3%95ES-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
 
-- **Engenharia de Software** | UniCEUB | `60%` | `ATIVO`
-- **CS50 Harvard** | Fundação Estudar | `100%` | `CONCLUÍDO`
-- **Front End + Design** | HTML/CSS/JS/Figma | `100%` | `CONCLUÍDO`
-- **IA e Habilidades Humanas** | USP | `100%` | `CONCLUÍDO`
-- **Fluência em IA** | Anthropic | `100%` | `CONCLUÍDO`
-- **Banco de Dados Oracle** | Oracle | `40%` | `EM ANDAMENTO`
+- `ATIVO` **Engenharia de Software** - UniCEUB `60%`
+- `CONCLUÍDO` **CS50 Harvard** - Fundação Estudar `100%`
+- `CONCLUÍDO` **Front End + Design** - HTML/CSS/JS/Figma `100%`
+- `CONCLUÍDO` **IA e Habilidades Humanas** - USP `100%`
+- `CONCLUÍDO` **Fluência em IA** - Anthropic `100%`
+- `EM ANDAMENTO` **Banco de Dados Oracle** - Oracle `40%`
 
 ---
 
 ## <img src="https://img.shields.io/badge/N%C3%8DVEL%20DE%20HABILIDADES-16407A?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-**Algoritmos & Lógica** `████████████████████░░░░ 80%`  
-**Python** `████████████░░░░ 60%`  
-**HTML/CSS** `█████████████░░░░░░░ 65%`  
-**Git & Versionamento** `████████████░░░░░░░░░░░░ 60%`  
-**Figma & UI Design** `███████████░░░░░░░░░░░░░ 55%`  
-**JavaScript** `████████░░░░ 40%`  
-**C & Sistemas** `███████░░░░░ 35%`  
-**SQL & Bancos** `████████░░░░░░░░░░░░░░░░ 40%`  
-**Estrutura de Dados** `██████░░░░░░░░░░░░░░░░░░ 30%`
+**Algoritmos & Lógica** `80%`  
+**Python** `60%`  
+**HTML/CSS** `65%`  
+**Git & Versionamento** `60%`  
+**Figma & UI Design** `55%`  
+**JavaScript** `40%`  
+**C & Sistemas** `35%`  
+**SQL & Bancos** `40%`  
+**Estrutura de Dados** `30%`
 
 ---
 
 ## <img src="https://img.shields.io/badge/PROJETOS%20PRINCIPAIS-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
 ### **List To Playlist**
-`Spotify API` `OAuth 2.0` `Python` | `STATUS: DEPLOYED`  
+`Python` `Spotify API` `OAuth 2.0` | `DEPLOYED`  
 Converte listas de músicas entre plataformas usando a API do Spotify.  
-[ACESSAR REPOSITÓRIO](https://github.com/cvpalmiere)
+[Ver Repositório](https://github.com/cvpalmiere)
 
 ### **Mural Fotográfico**
-`React` `Node.js` `Upload API` | `STATUS: PRODUCTION`  
+`React` `Node.js` `Upload API` | `PRODUCTION`  
 Aplicação para upload e organização de fotos com interface moderna.  
-[ACESSAR REPOSITÓRIO](https://github.com/cvpalmiere)
+[Ver Repositório](https://github.com/cvpalmiere)
 
 ### **Palmiere Studio**
-`React 18` `LocalStorage` `CSS Grid` | `STATUS: ACTIVE`  
+`React 18` `LocalStorage` `CSS Grid` | `ACTIVE`  
 Estúdio criativo para gerenciamento de projetos e portfólio.  
-[ACESSAR REPOSITÓRIO](https://github.com/cvpalmiere)
+[Ver Repositório](https://github.com/cvpalmiere)
 
 ### **Landing Page**
-`HTML5` `CSS3` `JavaScript` | `STATUS: COMPLETED`  
+`HTML5` `CSS3` `JavaScript` | `COMPLETED`  
 Landing page responsiva com foco em conversão e UI limpa.  
-[ACESSAR REPOSITÓRIO](https://github.com/cvpalmiere)
+[Ver Repositório](https://github.com/cvpalmiere)
 
 ---
 
@@ -146,15 +129,9 @@ Landing page responsiva com foco em conversão e UI limpa.
 
 ## <img src="https://img.shields.io/badge/DISPONIBILIDADE-4C86C6?style=for-the-badge&labelColor=12121C&color=F2E4C9" />
 
-`STATUS: ABERTO PARA PROJETOS`  
-`MODALIDADE: REMOTO / HÍBRIDO`  
-`TIMEZONE: GMT-3`
-
----
-
-## <img src="https://img.shields.io/badge/CONEX%C3%95ES%20PROFISSIONAIS-E8B84B?style=for-the-badge&labelColor=12121C&color=12121C" />
-
-[LinkedIn](https://linkedin.com/in/cvpalmiere) | [GitHub](https://github.com/cvpalmiere) | [Portfolio](https://cvpalmiere.github.io) | [Email](mailto:carlavick07@gmail.com)
+**Status:** Aberto para Projetos  
+**Modalidade:** Remoto / Híbrido  
+**Timezone:** GMT-3
 
 ---
 
