@@ -77,7 +77,7 @@
       <td align="center"><b>ATIVO</b></td>
       <td><b>Engenharia de Software</b></td>
       <td>UniCEUB</td>
-      <td align="center"><code>60%</code></td>
+      <td align="center"><code>25%</code></td>
     </tr>
     <tr>
       <td align="center"><b>CONCLUÍDO</b></td>
