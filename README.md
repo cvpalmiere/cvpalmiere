@@ -1,80 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=180&section=header&text=CARLA%20PALMIERE&fontSize=42&fontColor=F2E4C9&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20Full%20Stack%20%7C%20Bras%C3%ADlia%2C%20DF&descAlignY=58&descSize=16" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=E8B84B&center=true&vCenter=true&width=600&lines=CARLA+VICKT%C3%93RIA;DESENVOLVEDORA+FULL+STACK;EMBAIXADORA+GOOGLE+2026;SEMPRE+APRENDENDO+%3C%2F%3E" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16407A,4C86C6,E8B84B,E91E63,9C27B0&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Desenvolvedora%20Full%20Stack%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%"/>
 
-  <p>
-    <a href="mailto:carlavick07@gmail.com"><img src="https://img.shields.io/badge/Email-12121C?style=for-the-badge&logo=gmail&logoColor=E8B84B" /></a>
-    <a href="https://linkedin.com/in/cvpalmiere"><img src="https://img.shields.io/badge/LinkedIn-12121C?style=for-the-badge&logo=linkedin&logoColor=4C86C6" /></a>
-    <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=F2E4C9" /></a>
-    <a href="https://cvpalmiere.github.io"><img src="https://img.shields.io/badge/Portfolio-12121C?style=for-the-badge&logo=firefox&logoColor=E8B84B" /></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=CARLA+VICKTÓRIA;DESENVOLVEDORA+FULL+STACK;EMBAIXADORA+GOOGLE+2026;SEMPRE+APRENDENDO+%3C%2F%3E;CODING+THE+FUTURE" alt="Typing SVG" />
 
-  <p>
-    <b>Formação:</b> Eng. de Software @ UniCEUB &nbsp;|&nbsp;
-    <b>Classe:</b> Desenvolvedora Full Stack &nbsp;|&nbsp;
-    <b>Conquista:</b> Embaixadora Google 2026
-  </p>
+  <br><br>
 
-  <br>
+  <img src="https://img.shields.io/badge/LOCALIZACAO-BRASIL_DF-FF0055?style=for-the-badge&labelColor=12121C" />
+  <img src="https://img.shields.io/badge/CARGO-FULL_STACK_DEV-00E5FF?style=for-the-badge&labelColor=12121C" />
+  <img src="https://img.shields.io/badge/GOOGLE-EMBAIXADORA_2026-FFD700?style=for-the-badge&labelColor=12121C" />
 
-  <h3>Arsenal Tecnológico</h3>
-  <p>
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-  </p>
+  <br><br>
+
+  <a href="mailto:carlavick07@gmail.com"><img src="https://img.shields.io/badge/Email-12121C?style=flat-square&logo=gmail&logoColor=EA4335&color=EA4335" /></a>
+  <a href="https://linkedin.com/in/cvpalmiere"><img src="https://img.shields.io/badge/LinkedIn-12121C?style=flat-square&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+  <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/GitHub-12121C?style=flat-square&logo=github&logoColor=ffffff&color=8A2BE2" /></a>
+  <a href="https://cvpalmiere.github.io"><img src="https://img.shields.io/badge/Portfolio-12121C?style=flat-square&logo=firefox&logoColor=FF7119&color=FF7119" /></a>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=50&text=ARSENAL%20TECNOLÓGICO&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,c,mysql,react,git,github,vscode,figma&theme=dark&perline=9" alt="Skills" />
+  </a>
+
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=50&text=ESTATÍSTICAS%20E%20CONQUISTAS&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=cvpalmiere&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=false" alt="Trophies" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=tokyonight&border_radius=10&border_color=8A2BE2" alt="Estatísticas GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=6&theme=synthwave&border_radius=10&border_color=FF0055" alt="Linguagens Top" width="48%" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=cvpalmiere&theme=dracula&border_radius=10&stroke=FFD700&ring=00E5FF&fire=FF0055" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=50&text=PROJETOS%20EM%20DESTAQUE&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br>
 
-### Projetos Principais
-Aqui estão alguns dos projetos em que venho trabalhando. Para ver mais, acesse meu [repositório](https://github.com/cvpalmiere).
+> **List To Playlist**
+> <br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00E5FF?style=flat-square&labelColor=12121C" />
+> <br>
+> Converte listas de músicas entre plataformas usando a API do Spotify.
+> <br>
+> [Acessar Repositório](https://github.com/cvpalmiere)
 
-- **[List To Playlist](https://github.com/cvpalmiere)** `Python` `Spotify API` `OAuth 2.0`<br>
-  Converte listas de músicas entre plataformas usando a API do Spotify. *(Deployed)*
-- **[Mural Fotográfico](https://github.com/cvpalmiere)** `React` `Node.js` `Upload API`<br>
-  Aplicação para upload e organização de fotos com interface moderna. *(Production)*
-- **[Palmiere Studio](https://github.com/cvpalmiere)** `React 18` `LocalStorage` `CSS Grid`<br>
-  Estúdio criativo para gerenciamento de projetos e portfólio. *(Active)*
-- **[Landing Page](https://github.com/cvpalmiere)** `HTML5` `CSS3` `JavaScript`<br>
-  Landing page responsiva com foco em conversão e UI limpa. *(Completed)*
+<br>
 
----
+> **Mural Fotográfico**
+> <br>
+> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-PRODUCTION-FF0055?style=flat-square&labelColor=12121C" />
+> <br>
+> Aplicação para upload e organização de fotos com interface moderna.
+> <br>
+> [Acessar Repositório](https://github.com/cvpalmiere)
 
-### Formação, Certificações & Habilidades
+<br>
 
-Estou cursando **Engenharia de Software (UniCEUB)** e constantemente buscando novos conhecimentos. Minhas principais áreas de domínio técnico atualmente envolvem **Algoritmos e Lógica (80%)**, **Python (60%)** e **HTML/CSS (65%)**. 
-
-- **[ATIVO]** Engenharia de Software | *UniCEUB* (25%)
-- **[EM ANDAMENTO]** Banco de Dados Oracle | *Oracle* (40%)
-- **[CONCLUÍDO]** CS50 Harvard | *Fundação Estudar*
-- **[CONCLUÍDO]** Front End + Design | *HTML/CSS/JS/Figma*
-- **[CONCLUÍDO]** IA e Habilidades Humanas | *USP*
-- **[CONCLUÍDO]** Fluência em IA | *Anthropic*
-
----
-
-### Foco Atual & Disponibilidade
-
-No momento, estou me aprofundando em **Python Avançado (Otimização & Práticas)**, **APIs RESTful**, **Microsserviços** e integrações com **IA & ML**.
-
-**Timezone:** GMT -3 (Brasília, DF)<br>
-**Modalidade:** Remoto / Híbrido<br>
-**Status:** Aberto para Projetos
+> **Palmiere Studio**
+> <br>
+> <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS_Grid-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C" />
+> <br>
+> Estúdio criativo para gerenciamento de projetos e portfólio.
+> <br>
+> [Acessar Repositório](https://github.com/cvpalmiere)
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=4C86C6&hide_border=true" alt="Estatísticas GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=6&theme=dark&bg_color=12121C&title_color=E8B84B&text_color=F2E4C9&icon_color=4C86C6&border_color=E8B84B&hide_border=true" alt="Linguagens Top" height="150" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=50&text=FORMAÇÃO%20E%20HABILIDADES&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16407A,50:4C86C6,100:E8B84B&height=100&section=footer&animation=fadeIn" width="100%"/>
+<br>
+
+**[ ATIVO ]** Engenharia de Software | *UniCEUB* (25%)
+<br>
+**[ EM ANDAMENTO ]** Banco de Dados Oracle | *Oracle* (40%)
+<br>
+**[ CONCLUÍDO ]** CS50 Harvard | *Fundação Estudar*
+<br>
+**[ CONCLUÍDO ]** IA e Habilidades Humanas | *USP*
+<br>
+**[ CONCLUÍDO ]** Fluência em IA | *Anthropic*
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Foco_Atual-Python_Avançado_&_APIs_RESTful-8A2BE2?style=for-the-badge&labelColor=12121C" />
+  <img src="https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido-FF0055?style=for-the-badge&labelColor=12121C" />
+  <img src="https://img.shields.io/badge/Status-Aberto_para_Projetos-00E5FF?style=for-the-badge&labelColor=12121C" />
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16407A,4C86C6,E8B84B,E91E63,9C27B0&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
