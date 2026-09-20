@@ -1,5 +1,6 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Desenvolvedora%20Full%20Stack%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" />
 
   <br>
 
