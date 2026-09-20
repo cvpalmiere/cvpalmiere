@@ -1,70 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Desenvolvedora%20Full%20Stack%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" alt="Header" />
+# CARLA VICKTÓRIA PALMIERE
+### DESENVOLVEDORA FULL STACK | EMBAIXADORA GOOGLE 2026
+**Brasília, DF**
 
-<br><br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=CARLA+VICKTÓRIA;DESENVOLVEDORA+FULL+STACK;EMBAIXADORA+GOOGLE+2026;CODING+THE+FUTURE)](https://git.io/typing-svg)
-
-<br><br>
-
-[![Localizacao](https://img.shields.io/badge/LOCALIZACAO-BRASIL_DF-4A90E2?style=for-the-badge&labelColor=12121C)](#)
-[![Cargo](https://img.shields.io/badge/CARGO-FULL_STACK_DEV-1C4587?style=for-the-badge&labelColor=12121C)](#)
-[![Google](https://img.shields.io/badge/GOOGLE-EMBAIXADORA_2026-FFD700?style=for-the-badge&labelColor=12121C)](#)
-
-<br><br>
-
-[![Email](https://img.shields.io/badge/Email-12121C?style=flat-square&logo=gmail&logoColor=FFD700&color=1C4587)](mailto:carlavick07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-12121C?style=flat-square&logo=linkedin&logoColor=ffffff&color=4A90E2)](https://linkedin.com/in/cvpalmiere)
-[![GitHub](https://img.shields.io/badge/GitHub-12121C?style=flat-square&logo=github&logoColor=12121C&color=FFD700)](https://github.com/cvpalmiere)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12121C?style=flat-square&logo=firefox&logoColor=ffffff&color=1C4587)](https://cvpalmiere.github.io)
+[![Email](https://img.shields.io/badge/Email-12121C?style=for-the-badge&logo=gmail&logoColor=FFD700&color=1C4587)](mailto:carlavick07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12121C?style=for-the-badge&logo=linkedin&logoColor=4A90E2&color=1C4587)](https://linkedin.com/in/cvpalmiere)
+[![GitHub](https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=FFD700&color=1C4587)](https://github.com/cvpalmiere)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12121C?style=for-the-badge&logo=firefox&logoColor=4A90E2&color=1C4587)](https://cvpalmiere.github.io)
 
 </div>
 
-<br>
+---
 
 > **OBJETIVO PRINCIPAL**
-> <br>
+> 
 > Construir coisas de valor que tenham sentido e realmente façam a diferença.
 
-<br>
+---
 
-<div align="center">
+### ARSENAL TECNOLÓGICO
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1C4587&height=50&text=ARSENAL%20TECNOLÓGICO&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="Arsenal Tecnológico" />
+[![Python](https://img.shields.io/badge/Python-1C4587?style=for-the-badge&labelColor=12121C&logo=python&logoColor=FFD700)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-4A90E2?style=for-the-badge&labelColor=12121C&logo=javascript&logoColor=12121C)](#)
+[![C](https://img.shields.io/badge/C-1C4587?style=for-the-badge&labelColor=12121C&logo=c&logoColor=FFD700)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4A90E2?style=for-the-badge&labelColor=12121C&logo=mysql&logoColor=12121C)](#)
+[![React](https://img.shields.io/badge/React-1C4587?style=for-the-badge&labelColor=12121C&logo=react&logoColor=4A90E2)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&labelColor=12121C&logo=node.js&logoColor=12121C)](#)
+[![Git](https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&labelColor=12121C&logo=git&logoColor=12121C)](#)
+[![Figma](https://img.shields.io/badge/Figma-1C4587?style=for-the-badge&labelColor=12121C&logo=figma&logoColor=FFD700)](#)
 
-<br><br>
+---
 
-[![Skills](https://skillicons.dev/icons?i=python,js,c,mysql,react,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-
-<br><br>
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4A90E2&height=50&text=ESTATÍSTICAS%20E%20CONQUISTAS&fontSize=22&fontColor=12121C&animation=fadeIn" width="100%" alt="Estatísticas" />
-
-<br><br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=cvpalmiere&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cvpalmiere&show_icons=true&bg_color=12121C&title_color=FFD700&text_color=ffffff&icon_color=4A90E2&border_color=1C4587&border_radius=10" alt="Estatísticas GitHub" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvpalmiere&layout=compact&langs_count=6&bg_color=12121C&title_color=FFD700&text_color=ffffff&icon_color=4A90E2&border_color=1C4587&border_radius=10" alt="Linguagens Top" width="48%" />
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cvpalmiere&background=12121C&stroke=1C4587&ring=4A90E2&fire=FFD700&currStreakNum=ffffff&currStreakLabel=4A90E2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10)](https://git.io/streak-stats)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&text=EXPERIÊNCIA%20E%20PROJETOS&fontSize=22&fontColor=12121C&animation=fadeIn" width="100%" alt="Projetos" />
-
-</div>
-
-<br>
+### EXPERIÊNCIA E PROJETOS EM DESTAQUE
 
 > **Automação de Chatbots** | *16 Meses de Experiência*
 > <br>
-> [![Chatbots](https://img.shields.io/badge/Chatbots-4A90E2?style=flat-square&logoColor=white)](#) [![Automação](https://img.shields.io/badge/Automação-1C4587?style=flat-square&logoColor=white)](#) [![Status](https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C)](#)
+> [![Chatbots](https://img.shields.io/badge/Chatbots-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2)](#) [![Automação](https://img.shields.io/badge/Automação-1C4587?style=flat-square&labelColor=12121C&color=1C4587)](#) [![Status](https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700)](#)
 > <br>
 > Experiência consolidada na criação, arquitetura e automação de chatbots para diversos ramos de negócio. Foco na otimização de atendimento e construção de fluxos conversacionais inteligentes.
 
@@ -72,7 +46,7 @@
 
 > **List To Playlist**
 > <br>
-> [![Python](https://img.shields.io/badge/Python-1C4587?style=flat-square&logo=python&logoColor=white)](#) [![Spotify API](https://img.shields.io/badge/Spotify_API-4A90E2?style=flat-square&logo=spotify&logoColor=white)](#) [![Status](https://img.shields.io/badge/STATUS-DEPLOYED-FFD700?style=flat-square&labelColor=12121C)](#)
+> [![Python](https://img.shields.io/badge/Python-1C4587?style=flat-square&labelColor=12121C&color=1C4587)](#) [![Spotify API](https://img.shields.io/badge/Spotify_API-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2)](#) [![Status](https://img.shields.io/badge/STATUS-DEPLOYED-FFD700?style=flat-square&labelColor=12121C&color=FFD700)](#)
 > <br>
 > Converte listas de músicas entre plataformas usando a API do Spotify.
 > <br>
@@ -82,19 +56,15 @@
 
 > **Palmiere Studio**
 > <br>
-> [![React 18](https://img.shields.io/badge/React_18-1C4587?style=flat-square&logo=react&logoColor=61DAFB)](#) [![CSS Grid](https://img.shields.io/badge/CSS_Grid-4A90E2?style=flat-square&logo=css3&logoColor=white)](#) [![Status](https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C)](#)
+> [![React 18](https://img.shields.io/badge/React_18-1C4587?style=flat-square&labelColor=12121C&color=1C4587)](#) [![CSS Grid](https://img.shields.io/badge/CSS_Grid-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2)](#) [![Status](https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700)](#)
 > <br>
 > Estúdio criativo para gerenciamento de projetos e portfólio.
 > <br>
 > [Acessar Repositório](https://github.com/cvpalmiere)
 
-<br>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1C4587&height=50&text=FORMAÇÃO%20E%20HABILIDADES&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="Formação" />
-</div>
-
-<br>
+### FORMAÇÃO E HABILIDADES
 
 **[ ATIVO ]** Engenharia de Software | *UniCEUB* (25%)
 <br>
@@ -106,14 +76,34 @@
 <br>
 **[ CONCLUÍDO ]** Fluência em IA | *Anthropic*
 
-<br>
+---
 
 <div align="center">
-  [![Foco Atual](https://img.shields.io/badge/Foco_Atual-Python_Avançado_&_APIs_RESTful-1C4587?style=for-the-badge&labelColor=12121C)](#)
-  [![Modalidade](https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido-4A90E2?style=for-the-badge&labelColor=12121C)](#)
-  [![Status](https://img.shields.io/badge/Status-Aberto_para_Projetos-FFD700?style=for-the-badge&labelColor=12121C)](#)
 
-  <br><br>
+### FOCO ATUAL E DISPONIBILIDADE
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+[![Foco Atual](https://img.shields.io/badge/Foco_Atual-Python_Avançado_&_APIs_RESTful-1C4587?style=for-the-badge&labelColor=12121C)](#)
+[![Modalidade](https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido-4A90E2?style=for-the-badge&labelColor=12121C)](#)
+[![Status](https://img.shields.io/badge/Status-Aberto_para_Projetos-FFD700?style=for-the-badge&labelColor=12121C)](#)
+
 </div>
+```A transição para a paleta do Lucario traz uma estética mais fria e estruturada, equilibrando tons de aço, azul e creme. Como a ideia é remover totalmente as imagens, o design precisará se apoiar na tipografia, na geometria do grid estilo Bento e nos efeitos de profundidade do glassmorphism ou soft neumorphism para manter a interface visualmente interessante.
+
+Aqui está a estrutura de cores baseada no Lucario e como aplicá-la em toda a interface:
+
+**A Paleta Base (Variáveis e Tailwind)**
+*   **Azul Aura (Primária):** `#2C6496` ou `blue-700` — Use para botões principais, links de destaque e bordas ativas.
+*   **Aço / Chumbo (Fundo escuro ou Texto principal):** `#2A2C31` ou `slate-800` — Excelente para o fundo principal da aplicação (se for dark mode) ou para a tipografia pesada de cabeçalhos (se for light mode).
+*   **Creme / Pelo de Peito (Fundo claro ou Cards):** `#F0E6D2` ou um `stone-100` — Substitui o branco puro, trazendo um toque mais quente e macio para os fundos dos cards ou da tela principal.
+*   **Cinza Metálico (Bordas e Elementos Secundários):** `#A5B1C2` ou `slate-400` — Ideal para divisórias, ícones secundários e placeholders.
+*   **Vermelho Olhar (Acentos e Alertas):** `#CE4B52` ou `red-500` — Use com muita moderação, apenas para notificações, crachás de status (badges) ou botões de exclusão.
+
+**Estratégia para o Grid Bento sem Imagens**
+Para que os blocos não pareçam vazios sem fotografias ou ilustrações, o conteúdo textual e estrutural precisa brilhar:
+*   **Tipografia como Arte:** Aumente o contraste e o peso das fontes nos títulos dentro de cada card do grid. Use números em tamanho grande (ex: métricas de dashboard, contadores) para preencher o espaço de forma útil e estética.
+*   **Ícones Minimalistas:** Substitua o peso visual das imagens por ícones em vetor (SVG) usando o **Azul Aura** ou o **Cinza Metálico**. Ícones com traços consistentes funcionam muito bem dentro do padrão Bento.
+*   **Espaçamento Negativo:** No estilo Bento, o respiro entre os elementos (padding interno dos cards e gap entre eles) é o que dá a sensação de organização. Sem imagens para distrair, um padding generoso (ex: `p-6` ou `p-8` no Tailwind) deixa a interface luxuosa.
+
+**Aplicando Glassmorphism e Neumorphism**
+*   **Glassmorphism (Tons Frios):** Se o fundo for o chumbo escuro (`#2A2C31`), faça os cards do grid com um fundo levemente translúcido (`bg-white/5` ou `bg-blue-900/20`), adicionando um desfoque (`backdrop-blur-md`) e uma borda metálica finíssima (`border border-slate-400/20`). Isso remete à aura do Lucario.
+*   **Soft Neumorphism (Tons Claros):** Se preferir uma interface clara usando o fundo creme (`#F0E6D2`), crie o volume dos cards usando sombras duplas sutis: uma sombra projetada levemente escura e um brilho interno branco no canto superior esquerdo. Isso cria uma textura tátil (quase como aço escovado ou tecido) que elimina a necessidade de qualquer enfeite visual externo.
