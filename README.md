@@ -2,10 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Desenvolvedora%20Full%20Stack%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" />
 
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=CARLA+VICKTÓRIA;DESENVOLVEDORA+FULL+STACK;EMBAIXADORA+GOOGLE+2026;CODING+THE+FUTURE" alt="Typing SVG" />
-
   <br><br>
 
   <!-- Botoes de Contato (Sem formato de link de texto) -->
