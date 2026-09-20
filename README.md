@@ -87,23 +87,3 @@
 [![Status](https://img.shields.io/badge/Status-Aberto_para_Projetos-FFD700?style=for-the-badge&labelColor=12121C)](#)
 
 </div>
-```A transição para a paleta do Lucario traz uma estética mais fria e estruturada, equilibrando tons de aço, azul e creme. Como a ideia é remover totalmente as imagens, o design precisará se apoiar na tipografia, na geometria do grid estilo Bento e nos efeitos de profundidade do glassmorphism ou soft neumorphism para manter a interface visualmente interessante.
-
-Aqui está a estrutura de cores baseada no Lucario e como aplicá-la em toda a interface:
-
-**A Paleta Base (Variáveis e Tailwind)**
-*   **Azul Aura (Primária):** `#2C6496` ou `blue-700` — Use para botões principais, links de destaque e bordas ativas.
-*   **Aço / Chumbo (Fundo escuro ou Texto principal):** `#2A2C31` ou `slate-800` — Excelente para o fundo principal da aplicação (se for dark mode) ou para a tipografia pesada de cabeçalhos (se for light mode).
-*   **Creme / Pelo de Peito (Fundo claro ou Cards):** `#F0E6D2` ou um `stone-100` — Substitui o branco puro, trazendo um toque mais quente e macio para os fundos dos cards ou da tela principal.
-*   **Cinza Metálico (Bordas e Elementos Secundários):** `#A5B1C2` ou `slate-400` — Ideal para divisórias, ícones secundários e placeholders.
-*   **Vermelho Olhar (Acentos e Alertas):** `#CE4B52` ou `red-500` — Use com muita moderação, apenas para notificações, crachás de status (badges) ou botões de exclusão.
-
-**Estratégia para o Grid Bento sem Imagens**
-Para que os blocos não pareçam vazios sem fotografias ou ilustrações, o conteúdo textual e estrutural precisa brilhar:
-*   **Tipografia como Arte:** Aumente o contraste e o peso das fontes nos títulos dentro de cada card do grid. Use números em tamanho grande (ex: métricas de dashboard, contadores) para preencher o espaço de forma útil e estética.
-*   **Ícones Minimalistas:** Substitua o peso visual das imagens por ícones em vetor (SVG) usando o **Azul Aura** ou o **Cinza Metálico**. Ícones com traços consistentes funcionam muito bem dentro do padrão Bento.
-*   **Espaçamento Negativo:** No estilo Bento, o respiro entre os elementos (padding interno dos cards e gap entre eles) é o que dá a sensação de organização. Sem imagens para distrair, um padding generoso (ex: `p-6` ou `p-8` no Tailwind) deixa a interface luxuosa.
-
-**Aplicando Glassmorphism e Neumorphism**
-*   **Glassmorphism (Tons Frios):** Se o fundo for o chumbo escuro (`#2A2C31`), faça os cards do grid com um fundo levemente translúcido (`bg-white/5` ou `bg-blue-900/20`), adicionando um desfoque (`backdrop-blur-md`) e uma borda metálica finíssima (`border border-slate-400/20`). Isso remete à aura do Lucario.
-*   **Soft Neumorphism (Tons Claros):** Se preferir uma interface clara usando o fundo creme (`#F0E6D2`), crie o volume dos cards usando sombras duplas sutis: uma sombra projetada levemente escura e um brilho interno branco no canto superior esquerdo. Isso cria uma textura tátil (quase como aço escovado ou tecido) que elimina a necessidade de qualquer enfeite visual externo.
