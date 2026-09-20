@@ -11,14 +11,14 @@
   </p>
 
   <p>
-    🎓 <b>Formação:</b> Eng. de Software @ UniCEUB &nbsp;|&nbsp;
-    💻 <b>Classe:</b> Desenvolvedora Full Stack &nbsp;|&nbsp;
-    🏆 <b>Conquista:</b> Embaixadora Google 2026
+    <b>Formação:</b> Eng. de Software @ UniCEUB &nbsp;|&nbsp;
+    <b>Classe:</b> Desenvolvedora Full Stack &nbsp;|&nbsp;
+    <b>Conquista:</b> Embaixadora Google 2026
   </p>
 
   <br>
 
-  <h3>🛠️ Arsenal Tecnológico</h3>
+  <h3>Arsenal Tecnológico</h3>
   <p>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
@@ -35,7 +35,7 @@
 
 <br>
 
-### 🚀 Projetos Principais
+### Projetos Principais
 Aqui estão alguns dos projetos em que venho trabalhando. Para ver mais, acesse meu [repositório](https://github.com/cvpalmiere).
 
 - **[List To Playlist](https://github.com/cvpalmiere)** `Python` `Spotify API` `OAuth 2.0`<br>
@@ -49,26 +49,26 @@ Aqui estão alguns dos projetos em que venho trabalhando. Para ver mais, acesse 
 
 ---
 
-### 📚 Formação, Certificações & Habilidades
+### Formação, Certificações & Habilidades
 
 Estou cursando **Engenharia de Software (UniCEUB)** e constantemente buscando novos conhecimentos. Minhas principais áreas de domínio técnico atualmente envolvem **Algoritmos e Lógica (80%)**, **Python (60%)** e **HTML/CSS (65%)**. 
 
-- 🟢 **[ATIVO]** Engenharia de Software | *UniCEUB* (25%)
-- 🟡 **[EM ANDAMENTO]** Banco de Dados Oracle | *Oracle* (40%)
-- 🔵 **[CONCLUÍDO]** CS50 Harvard | *Fundação Estudar*
-- 🔵 **[CONCLUÍDO]** Front End + Design | *HTML/CSS/JS/Figma*
-- 🔵 **[CONCLUÍDO]** IA e Habilidades Humanas | *USP*
-- 🔵 **[CONCLUÍDO]** Fluência em IA | *Anthropic*
+- **[ATIVO]** Engenharia de Software | *UniCEUB* (25%)
+- **[EM ANDAMENTO]** Banco de Dados Oracle | *Oracle* (40%)
+- **[CONCLUÍDO]** CS50 Harvard | *Fundação Estudar*
+- **[CONCLUÍDO]** Front End + Design | *HTML/CSS/JS/Figma*
+- **[CONCLUÍDO]** IA e Habilidades Humanas | *USP*
+- **[CONCLUÍDO]** Fluência em IA | *Anthropic*
 
 ---
 
-### 🎯 Foco Atual & Disponibilidade
+### Foco Atual & Disponibilidade
 
 No momento, estou me aprofundando em **Python Avançado (Otimização & Práticas)**, **APIs RESTful**, **Microsserviços** e integrações com **IA & ML**.
 
-🌍 **Timezone:** GMT -3 (Brasília, DF)<br>
-💼 **Modalidade:** Remoto / Híbrido<br>
-🤝 **Status:** Aberto para Projetos
+**Timezone:** GMT -3 (Brasília, DF)<br>
+**Modalidade:** Remoto / Híbrido<br>
+**Status:** Aberto para Projetos
 
 <br>
 
