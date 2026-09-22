@@ -105,7 +105,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Foco_Atual-Python_Avançado_&_APIs_RESTful-1C4587?style=for-the-badge&labelColor=12121C" />
-  <img src="https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido-4A90E2?style=for-the-badge&labelColor=12121C" />
+  <img src="https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido_/Presencial-4A90E2?style=for-the-badge&labelColor=12121C" />
   <img src="https://img.shields.io/badge/Status-Aberto_para_Projetos-FFD700?style=for-the-badge&labelColor=12121C" />
 
   <br><br>
