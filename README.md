@@ -51,7 +51,15 @@
 > <br>
 > <img src="https://img.shields.io/badge/Chatbots-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/Automação-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
 > <br>
-> Experiência consolidada na criação, arquitetura e automação de chatbots para diversos ramos de negócio. Foco na otimização de atendimento e construção de fluxos conversacionais inteligentes.
+> Experiência consolidada na criação, arquitetura e automação de chatbots para diversos ramos de negócio. Foco na otimização de atendimento e construção de fluxos conversacionais inteligentes. Experiencia com analise de requisitos, construção de prompts e gerenciamento de projetos. 
+
+<br>
+
+> **Bot Classificador de E-mails com IA**
+> <br>
+> <img src="https://img.shields.io/badge/Python-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/Gemini_API-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
+> <br>
+> Script em Python que consome e extrai dados brutos via Gmail API e utiliza o modelo Gemini (LLM) para categorizar a informação não estruturada.
 
 <br>
 
@@ -59,7 +67,7 @@
 > <br>
 > <img src="https://img.shields.io/badge/Python-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/Spotify_API-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/STATUS-DEPLOYED-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
 > <br>
-> Converte listas de músicas entre plataformas usando a API do Spotify.
+> Converte listas de músicas entre plataformas usando a API do Spotify, uma automação simples mas que resolve o problema de ter que criar playlists manualmente.
 > <br>
 > <!-- Botão de Link Seguro (Não fica azul/sublinhado) -->
 > <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
@@ -70,7 +78,7 @@
 > <br>
 > <img src="https://img.shields.io/badge/React_18-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/CSS_Grid-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
 > <br>
-> Estúdio criativo para gerenciamento de projetos e portfólio.
+> Estúdio criativo para gerenciamento de estudos na faculdade, o que resolve um problema diário dos estudantes.
 > <br>
 > <!-- Botão de Link Seguro (Não fica azul/sublinhado) -->
 > <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
