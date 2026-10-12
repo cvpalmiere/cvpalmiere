@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Desenvolvedora%20Full%20Stack%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Análise%20de%20Dados%20e%20Power%20BI%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" />
 
   <!-- Botoes de Contato (Sem formato de link de texto) -->
   <a href="mailto:carlavick07@gmail.com"><img src="https://img.shields.io/badge/Email-12121C?style=for-the-badge&logo=gmail&logoColor=FFD700&color=1C4587" /></a>
@@ -18,7 +18,7 @@
 
 <br>
 
-> **Construir coisas de valor que tenham sentido e realmente façam a diferença.**
+> **Transformar dados em decisões e soluções de valor, que tenham sentido e realmente façam a diferença.**
 
 <br>
 
@@ -30,13 +30,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1C4587?style=for-the-badge&labelColor=12121C&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&labelColor=12121C&logo=powerbi&logoColor=12121C" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4A90E2?style=for-the-badge&labelColor=12121C&logo=postgresql&logoColor=12121C" />
+  <img src="https://img.shields.io/badge/MySQL-1C4587?style=for-the-badge&labelColor=12121C&logo=mysql&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Excel-4A90E2?style=for-the-badge&labelColor=12121C&logo=microsoftexcel&logoColor=12121C" />
+  <img src="https://img.shields.io/badge/Oracle-1C4587?style=for-the-badge&labelColor=12121C&logo=oracle&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/JavaScript-4A90E2?style=for-the-badge&labelColor=12121C&logo=javascript&logoColor=12121C" />
-  <img src="https://img.shields.io/badge/C-1C4587?style=for-the-badge&labelColor=12121C&logo=c&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/MySQL-4A90E2?style=for-the-badge&labelColor=12121C&logo=mysql&logoColor=12121C" />
-  <img src="https://img.shields.io/badge/React-1C4587?style=for-the-badge&labelColor=12121C&logo=react&logoColor=4A90E2" />
-  <img src="https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&labelColor=12121C&logo=node.js&logoColor=12121C" />
-  <img src="https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&labelColor=12121C&logo=git&logoColor=12121C" />
-  <img src="https://img.shields.io/badge/Figma-1C4587?style=for-the-badge&labelColor=12121C&logo=figma&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Git-1C4587?style=for-the-badge&labelColor=12121C&logo=git&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Figma-4A90E2?style=for-the-badge&labelColor=12121C&logo=figma&logoColor=12121C" />
 </div>
 
 <br>
@@ -47,11 +48,22 @@
 
 <br>
 
+> **Investigação de Dados: Carmem Sandiego**
+> <br>
+> <img src="https://img.shields.io/badge/Excel-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/PostgreSQL-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/Power_BI-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/STATUS-COMPLETED-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
+> <br>
+> Exercício integrado de dados: limpeza de mais de 2.000 linhas no Excel, carga no PostgreSQL com Python, uma única query que isola 1 suspeita entre 2.000 a partir de 8 pistas e um dashboard no Power BI que responde perguntas como qual profissão mais gasta.
+> <br>
+> <!-- Botão de Link Seguro (Não fica azul/sublinhado) -->
+> <a href="https://github.com/cvpalmiere/exercicios"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
+
+<br>
+
 > **Automação de Chatbots** | *16 Meses de Experiência*
 > <br>
 > <img src="https://img.shields.io/badge/Chatbots-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/Automação-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
 > <br>
-> Experiência consolidada na criação, arquitetura e automação de chatbots para diversos ramos de negócio. Foco na otimização de atendimento e construção de fluxos conversacionais inteligentes. Experiencia com analise de requisitos, construção de prompts e gerenciamento de projetos. 
+> Experiência consolidada na criação e automação de chatbots para diversos ramos de negócio. A análise de requisitos e o desenho de fluxos conversacionais desenvolveram uma visão analítica: entender o processo, identificar gargalos e transformar etapas manuais em soluções contínuas. Experiência também com construção de prompts e gerenciamento de projetos.
 
 <br>
 
@@ -59,7 +71,7 @@
 > <br>
 > <img src="https://img.shields.io/badge/Python-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/Gemini_API-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
 > <br>
-> Script em Python que consome e extrai dados brutos via Gmail API e utiliza o modelo Gemini (LLM) para categorizar a informação não estruturada.
+> Script em Python que extrai dados brutos via Gmail API e usa o modelo Gemini (LLM) para transformar informação não estruturada em dados categorizados e prontos para análise.
 
 <br>
 
@@ -70,7 +82,7 @@
 > Converte listas de músicas entre plataformas usando a API do Spotify, uma automação simples mas que resolve o problema de ter que criar playlists manualmente.
 > <br>
 > <!-- Botão de Link Seguro (Não fica azul/sublinhado) -->
-> <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
+> <a href="https://github.com/cvpalmiere/listtoplaylist"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
 
 <br>
 
@@ -78,10 +90,10 @@
 > <br>
 > <img src="https://img.shields.io/badge/React_18-1C4587?style=flat-square&labelColor=12121C&color=1C4587" /> <img src="https://img.shields.io/badge/CSS_Grid-4A90E2?style=flat-square&labelColor=12121C&color=4A90E2" /> <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square&labelColor=12121C&color=FFD700" />
 > <br>
-> Estúdio criativo para gerenciamento de estudos na faculdade, o que resolve um problema diário dos estudantes.
+> Estúdio criativo para gerenciamento de estudos na faculdade, com dashboard e estatísticas de progresso, o que resolve um problema diário dos estudantes.
 > <br>
 > <!-- Botão de Link Seguro (Não fica azul/sublinhado) -->
-> <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
+> <a href="https://github.com/cvpalmiere/PalmiereStudio"><img src="https://img.shields.io/badge/Acessar_Repositório-1C4587?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
 
 <br>
 
@@ -91,9 +103,11 @@
 
 <br>
 
-> **[ ATIVO ]** Engenharia de Software | *UniCEUB* (25%)
+> **[ CONCLUÍDO ]** Intensivão de Power BI | *Hashtag Treinamentos*
 > <br>
 > **[ EM ANDAMENTO ]** Banco de Dados Oracle | *Oracle* (40%)
+> <br>
+> **[ ATIVO ]** Engenharia de Software | *UniCEUB* (25%)
 > <br>
 > **[ CONCLUÍDO ]** CS50 Harvard | *Fundação Estudar*
 > <br>
@@ -104,7 +118,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Foco_Atual-Python_Avançado_,_APIs_RESTful,_Analise_de_Dados_&_Power_BI-1C4587?style=for-the-badge&labelColor=12121C" />
+  <img src="https://img.shields.io/badge/Foco_Atual-Análise_de_Dados,_Power_BI,_SQL_e_Python-1C4587?style=for-the-badge&labelColor=12121C" />
   <img src="https://img.shields.io/badge/Modalidade-Remoto_/_Híbrido_/Presencial-4A90E2?style=for-the-badge&labelColor=12121C" />
   <img src="https://img.shields.io/badge/Status-Aberto_para_Projetos-FFD700?style=for-the-badge&labelColor=12121C" />
 
