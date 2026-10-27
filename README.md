@@ -1,13 +1,11 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Análise%20de%20Dados%20e%20Power%20BI%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12121C,35:1C4587,70:4A90E2,100:FFD700&height=220&section=header&text=CARLA%20PALMIERE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Análise%20de%20Dados%20e%20Power%20BI%20%7C%20Brasília,%20DF&descAlignY=55&descSize=18" width="100%" />
 
   <!-- Botoes de Contato (Sem formato de link de texto) -->
   <a href="mailto:carlavick07@gmail.com"><img src="https://img.shields.io/badge/Email-12121C?style=for-the-badge&logo=gmail&logoColor=FFD700&color=1C4587" /></a>
   <a href="https://linkedin.com/in/cvpalmiere"><img src="https://img.shields.io/badge/LinkedIn-12121C?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=4A90E2" /></a>
   <a href="https://github.com/cvpalmiere"><img src="https://img.shields.io/badge/GitHub-12121C?style=for-the-badge&logo=github&logoColor=12121C&color=FFD700" /></a>
   <a href="https://cvpalmiere.github.io"><img src="https://img.shields.io/badge/Portfolio-12121C?style=for-the-badge&logo=firefox&logoColor=ffffff&color=1C4587" /></a>
-
 </div>
 
 <br>
@@ -124,5 +122,5 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12121C,1C4587,4A90E2,FFD700&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12121C,35:1C4587,70:4A90E2,100:FFD700&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
